@@ -1,4 +1,5 @@
 require('./tasks');
+require('./quicksort');
 
 // const { curry, prop, compose } = require('lodash/fp');
 // const Maybe = require('maybe');
